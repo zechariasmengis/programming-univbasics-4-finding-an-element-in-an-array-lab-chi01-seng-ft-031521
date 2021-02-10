@@ -5,6 +5,5 @@ def find_element_index(array, value_to_find)
       break
     else
       counter += 1
-    end
-    array.index(counter)
+  array.index(counter)
 end
